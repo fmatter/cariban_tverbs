@@ -10,4 +10,4 @@ The following languages are featured in the study, although the descriptive cove
 
 [form](FormTable?with_language#cldf:6)
 
-[cogset](CognatesetTable?#cldf:6)
+[cogset](CognatesetTable?__all__)

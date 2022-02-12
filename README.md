@@ -31,22 +31,4 @@ The following languages are featured in the study, although the descriptive cove
  
 Ye'kwana _əkku_ ‘eat starch’
 
-None
-
-src:courtz2008carib[309] gives Pemongan cognates obj:kɨ(nɨ), which I was unable to find in other sources. Form has to be reconstructed as rc:t-ɨkɨ, rather than rc:tɨ-kɨ.
-
-
-| Form | Language | 
-| --- | --- | 
-| _*ɨkɨ_ | Proto-Cariban | 
-| _ɨʔ_ | Apalaí | 
-| _(i)ki_ | Werikyana | 
-| _ki_ | Upper Xingu Carib | 
-| _(ɨ)kɨ_ | Ye'kwana | 
-| _ɨgɨ_ | Arara | 
-| _(ɨ)kɨ_ | Tiriyó | 
-| _ih; k_ | Waiwai | 
-| _ɨkɨ_ | Wayana | 
-| _kɨ_ | Kari'ña | 
-| _kɨ_ | Pemón | 
-
+[cogset](CognatesetTable?__all__)
