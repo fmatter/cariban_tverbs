@@ -2,12 +2,12 @@ import pathlib
 import pandas as pd
 from cldfbench import CLDFSpec
 from cldfbench import Dataset as BaseDataset
-from cldf_helpers import flatten_list, custom_spec, split_ref
+from cldf_helpers import flatten_list, custom_spec, split_ref, get_cognates
 from clldutils.misc import slug
 import cariban_helpers as crh
 import pybtex
 from pycldf.sources import Source
-
+import lingpy
 
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
@@ -30,17 +30,46 @@ class Dataset(BaseDataset):
 
         >>> args.writer.objects['LanguageTable'].append(...)
         """
-        forms = pd.read_csv("raw/forms.csv", keep_default_na=False)
-        cognatesets = pd.read_csv("raw/cognates.csv", keep_default_na=False)
+        forms = pd.read_csv("raw/forms.csv", keep_default_na=False, dtype=str)
+        cognatesets = pd.read_csv("raw/cognates.csv", keep_default_na=False, dtype=str)
         cognates = [
             {
-                "ID": f"""{x["ID"]}-{x["Cognateset_ID"]}""",
+                # "ID": f"""{x["ID"]}-{x["Cognateset_ID"]}""",
                 "Form_ID": x["ID"],
-                "Cognateset_ID": x["Cognateset_ID"],
+                "Form": x["Form"],
+                "Cognates": x["Cognateset_ID"],
             }
             for i, x in forms.iterrows()
         ]
+        gathered_cognates = pd.DataFrame.from_dict(cognates)
+        cognates = pd.DataFrame()
+        for i, row in cognatesets.iterrows():
+            cog_df = get_cognates(gathered_cognates, row["ID"])
+            if cog_df is None:
+                continue
+            cog_df = cog_df.join(gathered_cognates.drop(columns=["Form"]))
+            cog_df["Form"] = cog_df["Form"].str.replace("(", "", regex=False)
+            cog_df["Form"] = cog_df["Form"].str.replace(")", "", regex=False)
+            cog_df["Form"] = cog_df["Form"].apply(lambda x: x.split("; ")[0])
+            cog_df["Segments"] = cog_df["Form"].apply(crh.segmentify)
+            seglist = lingpy.align.multiple.Multiple(list(cog_df["Segments"]))
+            seglist.align(method="progressive", gap_weight=0, model="dolgo")
+            # # seglist.alm.output("html", filename="aligned_cognatesets")
+            cog_df["Alignment"] = seglist.alm_matrix
+            # cog_df["Alignment"] = cog_df["Alignment"].apply(lambda x: " ".join(x))
+            # cog_df["ID"] = cog_df.apply(
+            #     lambda x: f"""{x["Form_ID"]}-{x["Allomorph"]}-{x["Slice"]}""", axis=1
+            # )
+            cog_df["Cognateset_ID"] = row["ID"]
+            cog_df["ID"] = cog_df.apply(lambda x: x["Cognateset_ID"] + "-" + x["Form_ID"], axis=1)
+            cog_df.drop(columns=["Segments", "Cognates", "Form"], inplace=True)
+            cog_df["Slice"] = cog_df["Slice"].map(str)
+            cog_df.rename(columns={"Slice": "Segment_Slice"}, inplace=True)
+            print(cog_df)
+            cognates = cognates.append(cog_df, ignore_index=True)
+        
         forms.drop(columns=["Cognateset_ID"], inplace=True)
+        forms["Form"] = forms["Form"].apply(lambda x: x.replace("+", ""))
 
         meanings = flatten_list(
             [row["Meaning"].split("; ") for i, row in forms.iterrows()]
@@ -113,13 +142,13 @@ class Dataset(BaseDataset):
                 {"Form_ID": pc_id, "ID": row["ID"], "Cognateset_ID": row["ID"]}
             )
             args.writer.objects["CognatesetTable"].append(
-                {"ID": row["ID"], "Description": row["Description"]}
+                {"ID": row["ID"], "Name": "*"+row["Form"], "Description": row["Description"]}
             )
 
         for row in meanings:
             args.writer.objects["ParameterTable"].append(row)
 
-        for row in cognates:
+        for i, row in cognates.iterrows():
             args.writer.objects["CognateTable"].append(row)
 
         for row in languages:
@@ -132,7 +161,11 @@ class Dataset(BaseDataset):
                 for i in df["Source"]:
                     if pd.isnull(i):
                         continue
-                    for r in i.split("; "):
+                    if i == "":
+                        continue
+                    if type(i) is not list:
+                        i = i.split("; ")
+                    for r in i:
                         found_refs.append(split_ref(r)[0])
         found_refs = list(set(found_refs))
         found_refs.remove("pc")

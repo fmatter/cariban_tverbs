@@ -13,7 +13,7 @@ ID,Language_ID,Form,Segments,Comment,Source,Parameter_ID
 12,kar,eku,,,courtz2008carib[253],fornicate
 13,mac,(j)aku,,unclear segmentation,macushiabbott1991[35],eatbread
 14,pem,ku,,,pemondearmellada1944dic[197],eat
-15,apa,õ,,,koehn1986apalai[68],eatmeat
+15,apa,õ,,,koehn1986apalai[68],eatmeat
 16,hix,ono,,,hixkaryanaderby1979[150],eatmeat
 17,kax,ono,,,pc[Spike Gildea],eatmeat
 18,uxc,eŋe,,,franchetto1986kuikuro[180],eatmeat
@@ -83,7 +83,7 @@ ID,Language_ID,Form,Segments,Comment,Source,Parameter_ID
 82,pem,pɨ,,<pui>,pemondearmellada1944dic[192],bathe
 83,way,(u)pɨ,,No example in the right context found.,wayanatavares2005[192],bathe
 84,apa,ri,,,koehn1986apalai[58],domake
-85,hix,"erʲe, e",,"Has obj:t͡ʃ-, probably because of the /e/.",hixkaryanaderby1985[192],do; fix; putdown
+85,hix,erʲe; e,,"Has obj:t͡ʃ-, probably because of the /e/.",hixkaryanaderby1985[192],do; fix; putdown
 86,ing,tɨrɨ; tərɨ; tərə,,Always with /t/.,cruz2005fonologia[243],give
 87,kax,irii,,,schuring2018kaxuyana[195],make
 88,uxc,ɨi,,,franchetto1986kuikuro[218],put; make
@@ -104,8 +104,8 @@ ID,Language_ID,Form,Segments,Comment,Source,Parameter_ID
 103,kax,mɨ,,,schuring2018kaxuyana[138],give
 104,wai,mɨ,,,waiwaihawkins1998[192],give
 105,uxc,uhu,,Also obj:uhumi 'send'.,franchetto2010ergativity[128],know
-106,apa,putu,,"Only appears in derived forms, main function being taken over by obj:waro. Also obj:enetuputɨ 'to understand' (src:koehn1995apalai[12])- -c ombination of ‘to see’ and ‘to understand’?. Contains fossilized obj:t-. Also unglossed example in src:camargo2002lexico[49]: obj:tupuʔnanko.",koehn1995apalai[43],know
-107,kar,ukutɨ; uputɨ,,,courtz2008carib[412],know
+106,apa,putu,,"Only appears in derived forms, main function being taken over by obj:waro. Also obj:enetuputɨ 'to understand' (src:koehn1995apalai[12]) -combination of ‘to see’ and ‘to understand’?. Contains fossilized obj:t-. Also unglossed example in src:camargo2002lexico[49]: obj:tupuʔnanko.",koehn1995apalai[43],know
+107,kar,uputɨ; ukutɨ,,,courtz2008carib[412],know
 108,hix,hutwa,,,hixkaryanaderby1979[126],know
 109,ing,ʔtu,,,cruz2005fonologia[417],know
 110,mac,epuʔtɨ,,,macushiabbott1991[47],know
