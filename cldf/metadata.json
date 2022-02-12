@@ -9,7 +9,14 @@
     "dc:identifier": "https://github.com/fmatter/cariban_tverbs",
     "dc:license": "CC-BY-SA",
     "dc:title": "Cariban *t-adding verbs",
+    "dcat:accessURL": "git@github.com:fmatter/cariban_tverbs",
     "prov:wasDerivedFrom": [
+        {
+            "rdf:about": "git@github.com:fmatter/cariban_tverbs",
+            "rdf:type": "prov:Entity",
+            "dc:created": "c892f50",
+            "dc:title": "Repository"
+        },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
