@@ -6,4 +6,8 @@ The following languages are featured in the study, although the descriptive cove
 
 [lg](LanguageTable#cldf:__all__)
 
+([](cldf/sources.bib?ref&with_internal_ref_link=references#cldf:waiwaihawkins1998): 132f.)
+
 [form](FormTable?#cldf:6)
+
+[cogset](CognatesetTable?#cldf:6)

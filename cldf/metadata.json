@@ -8,13 +8,14 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:identifier": "https://github.com/fmatter/cariban_tverbs",
     "dc:license": "CC-BY-SA",
+    "dc:source": "sources.bib",
     "dc:title": "Cariban *t-adding verbs",
     "dcat:accessURL": "git@github.com:fmatter/cariban_tverbs",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "git@github.com:fmatter/cariban_tverbs",
             "rdf:type": "prov:Entity",
-            "dc:created": "c892f50",
+            "dc:created": "90efeba",
             "dc:title": "Repository"
         },
         {
