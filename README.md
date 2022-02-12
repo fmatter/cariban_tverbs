@@ -29,7 +29,7 @@ The following languages are featured in the study, although the descriptive cove
 ([Hawkins 1998](#references): 132f.)
 
  
-_əkku_ ‘eat starch’
+Ye'kwana _əkku_ ‘eat starch’
 
 None
 
