@@ -47,7 +47,14 @@ class Dataset(BaseDataset):
                 },
                 ignore_index=True
             )
-        print(forms[forms["Language_ID"] == "PC"])
+        def repl_lg(glottocode):
+            if glottocode == "kuik1246":
+                return "uxc"
+            return crh.get_lg_id(glottocode)
+
+        forms["Language_ID"] = forms["Language_ID"].map(repl_lg)
+        forms.sort_values(by="Language_ID", key=lambda x: x.map(crh.lg_order()), inplace=True)
+
 
         cognates = [
             {
@@ -125,22 +132,14 @@ class Dataset(BaseDataset):
             custom_spec("FormTable", "Parameter_ID", separator="; "),
         )
 
-        def repl_lg(glottocode):
-            if glottocode == "kuik1246":
-                return "uxc"
-            return crh.get_lg_id(glottocode)
-
         lgs = []
         for i, row in forms.iterrows():
-            lg = repl_lg(row["Language_ID"])
-            row["Language_ID"] = lg
             row["Source"] = [row["Source"]]
             parameters = [meaning_dic[x] for x in row["Meaning"].split("; ")]
             row["Parameter_ID"] = parameters
             args.writer.objects["FormTable"].append(row)
-            lgs.append(lg)
+            lgs.append(row["Language_ID"])
 
-        lgs.append("PC")
         languages = crh.get_cldf_lg_table(lgs)
 
         for i, row in cognatesets.iterrows():

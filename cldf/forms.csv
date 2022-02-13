@@ -1,237 +1,237 @@
 ID,Language_ID,Form,Segments,Comment,Source,Parameter_ID
-1,apa,oʔ,,,camargo2002lexico[66],eatstarchmeat; havesex
-2,hix,okɨ,,,hixkaryanaderby1985[193],eatbread
-3,ikp,ogu,,,ikpengpacheco2001[155],eat
-4,kax,ok(u),,,pc[Spike Gildea],eatstarch
-5,uxc,eku,,,franchetto2010ergativity[128],eatvegetable
-6,mak,əkku,,,maquiritaricaceres2011[127],eatstarch
-7,tri,ə(ku),,,triomeira1999[234],eatflour
-8,wai,oh,,,waiwaihawkins1998[192],eatbread
-9,way,ək(u),,,wayanatavares2005[199],eatbread; havesex
-10,aka,əku,,,akawaiocaesar2003[357],eatnuts
-11,pan,uku,,,panarepayne2013[99],eatsoft
-12,kar,eku,,,courtz2008carib[253],fornicate
-13,mac,(j)aku,,unclear segmentation,macushiabbott1991[35],eatbread
-14,pem,ku,,,pemondearmellada1944dic[197],eat
-15,apa,õ,,,koehn1986apalai[68],eatmeat
-16,hix,ono,,,hixkaryanaderby1979[150],eatmeat
-17,kax,ono,,,pc[Spike Gildea],eatmeat
-18,uxc,eŋe,,,franchetto1986kuikuro[180],eatmeat
-19,mak,ənə,,,maquiritaricaceres2011[127],eatmeat
-20,ara,oŋoŋ,,Alternation obj:t- ~ obj:w-.,alves2017arara[156],bite
-21,tri,ənə,,,triomeira1999[234],eatmeat
-22,wai,ono,,,waiwaihawkins1998[192],eatmeat
-23,way,ə,,,wayanatavares2005[199],eatmeat; bite
-24,pan,ɨnə,,,panarepayne2013[99],eatmeat; bite
-25,kar,ono,,,courtz2008carib[330],eatmeat
-26,ing,anɨ,,,cruz2005fonologia[132],eatmeat
-27,mac,anɨ,,"Shows obj:j-, but unclear anyways!",macushiabbott1991[134],eat
-28,pem,nə,,<ne>,pemondearmellada1944dic[197],eat
-29,apa,ou,,,camargo2002lexico[73],takeout
-30,hix,owɨ,,,hixkaryanaderby1979[150],takeaway
-31,tri,əu,,,triomeira1999[234],takeout
-32,wai,ow,,,waiwaihawkins1998[192],takeout
-33,way,əwu,,,camargo2010wayana[38],takeout
-34,tri,urə,,,triomeira1999[234],lightfire
-35,kar,uro,,,courtz2008carib[415],blowatfan
-36,way,urə,,,camargo2010wayana[49],lit
-37,uxc,uɣi,,,franchetto1986kuikurotexts[14],blow; smoke
-38,apa,kaʔ,,Also attested with obj:i- psrc:koehn1995apalai[16],camargo2002lexico[53],weavebasket
-39,kax,kahɨ,,,schuring2018kaxuyana[90],weave
-40,mak,kahɨ,,,maquiritaricaceres2011[127],weave
-41,ara,ɨgabɨ,,,alves2017arara[156],weave
-42,tri,ka(pɨ),,,triomeira1999[234],weave
-43,way,kap(ɨ),,,wayanatavares2005[199],weave
-44,pan,ɨkapɨ,,Not sure if it should be obj:kapɨ.,panarepayne2013[228],weave
-45,kar,kapɨ,,,courtz2008carib[291],make; braid
-46,hix,kahɨ,,Not the default verb for 'to make'. Probably doesn't take obj:t-.,hixkaryanaderby1985[182],make
-47,mac,kapɨ,,"Does not show obj:i-, either: ex:mac-53",macushicarson1982[90],weave
-48,pem,kapɨ,,<kapui>,pemondearmellada1944dic[238],weavemake
-49,wai,kaɸu,,,hawkins2015dictionary,weave
-50,ing,kapə,,,cruz2005fonologia[396],weave
-51,apa,ɨʔ,,"obj:ɨʔnõko ‘weaving’, also obj:tɨʔnõko.",koehn1995apalai[57],grate
-52,kax,(i)ki,,Ambiguous whether it is obj:iki or obj:ki.,pc[Spike Gildea],gratemanioc
-53,uxc,ki,,,kuikurodossantos2007[241],grate
-54,mak,(ɨ)kɨ,,Ambiguous whether it is obj:ɨkɨ or obj:kɨ.,maquiritaricaceres2011[127],gratemanioc
-55,ara,ɨgɨ,,,alves2017arara[156],grate
-56,tri,(ɨ)kɨ,,Ambiguous whether it is obj:ɨkɨ or obj:kɨ.,triomeira1999[234],grate
-57,wai,ih; k,,,waiwaihawkins1998[192],grate
-58,way,ɨkɨ,,,wayanatavares2005[199],grate
-59,kar,kɨ,,,courtz2008carib[309],rasp
-60,pem,kɨ,,<ki>,pemondearmellada1944dic[73],grate
-61,mak,haho,,,maquiritaricaceres2011[127],killhumansspilltakeouttrash
-62,tri,papo,,,triomeira1999[234],throwoutwaste
-63,apa,paʔ,,shows obj:i-,camargo2002lexico[74],throwout
-64,kar,papɨ,,,courtz2008carib[337],strew; sprinkle
-65,way,upapɨ,,,camargo2010wayana[52],throwout
-66,mak,hətɨ,,,maquiritaricaceres2011[127],collectfruit
-67,tri,pə(tɨ),,,triomeira1999[234],gatherfruit
-68,kar,potɨ,,,courtz2008carib[351],pick
-69,way,upətɨ,,,wayanatavares2005[446],pickfruit
-70,apa,poʔ,,no examples found at all,koehn1995apalai[42],pickfruit; kiss
-71,hix,ɨhɨ,,,hixkaryanaderby1979[150],bathe
-72,ikp,ip,,,alves2013verbo[202],bathe
-73,kax,ɨhɨ,,,pc[Spike Gildea],bathe
-74,uxc,hɨ,,,franchetto2010ergativity[128],bathe
-75,mak,hɨ,,,maquiritaricaceres2011[127],wash
-76,ara,ɨbɨ,,,alves2017arara[156],bathe
-77,tri,pɨ,,,triomeira1999[234],bathe
-78,wai,pɨ,,,waiwaihawkins1998[192],bathe
-79,pan,ɨpɨ,,,panarepayne2013[244],bathe
-80,ing,pɨnə,,,cruz2005fonologia[262],bathe
-81,mac,pɨ,,,macushicarson1982[21],bathe
-82,pem,pɨ,,<pui>,pemondearmellada1944dic[192],bathe
-83,way,(u)pɨ,,No example in the right context found.,wayanatavares2005[192],bathe
-84,apa,ri,,,koehn1986apalai[58],domake
-85,hix,erʲe; e,,"Has obj:t͡ʃ-, probably because of the /e/.",hixkaryanaderby1985[192],do; fix; putdown
-86,ing,tɨrɨ; tərɨ; tərə,,Always with /t/.,cruz2005fonologia[243],give
-87,kax,irii,,,schuring2018kaxuyana[195],make
-88,uxc,ɨi,,,franchetto1986kuikuro[218],put; make
-89,mac,tɨ(r)ɨ,,Always with /t/.,macushiabbott1991[87],give; put; let
-90,mak,ɨrɨ,,Also occurs without obj:tɨ- psrc:maquiritaricaceres2011[145].,maquiritaricaceres2011[127],do; put; bless; dominate
-91,tri,rɨ,,,triomeira1999[700],domake; put
-92,wai,irʲ,,,waiwaihawkins1998[192],put; fix; make
-93,way,ɨrɨ,,,wayanatavares2005[199],make; put
-94,kar,ɨrɨ,,,courtz2008carib[438],give; put
-95,pem,irɨ,,,mosonyi2000pemon[541],give
-96,apa,je,,,koehn1995apalai[53],cook
-97,hix,jo,,,hixkaryanaderby1979[150],boil
-98,kax,jo,,,pc[Spike Gildea],cook
-99,tri,je,,,triomeira1999[234],cook
-100,wai,jo,,,waiwaihawkins1998[192],boil
-101,way,je,,,wayanatavares2005[199],cook
-102,hix,ɨmɨ,,,hixkaryanaderby1979[150],give
-103,kax,mɨ,,,schuring2018kaxuyana[138],give
-104,wai,mɨ,,,waiwaihawkins1998[192],give
-105,uxc,uhu,,Also obj:uhumi 'send'.,franchetto2010ergativity[128],know
-106,apa,putu,,"Only appears in derived forms, main function being taken over by obj:waro. Also obj:enetuputɨ 'to understand' (src:koehn1995apalai[12]) -combination of ‘to see’ and ‘to understand’?. Contains fossilized obj:t-. Also unglossed example in src:camargo2002lexico[49]: obj:tupuʔnanko.",koehn1995apalai[43],know
-107,kar,uputɨ; ukutɨ,,,courtz2008carib[412],know
-108,hix,hutwa,,,hixkaryanaderby1979[126],know
-109,ing,ʔtu,,,cruz2005fonologia[417],know
-110,mac,epuʔtɨ,,,macushiabbott1991[47],know
-111,pem,putu,,takes obj:i- (src:pemondearmellada1944dic[180]),pemondearmellada1944dic[235],know
-112,tri,puunə(pɨ),,,triomeira1999[256],thinkabout
-113,wai,htɨnopɨ,,,waiwaihawkins1998[41],know
-114,way,potnəpɨ,,,wayanatavares2005[391],know
-115,apa,uo,,,camargo2002lexico[94],shootkill
-116,hix,wo,,,hixkaryanaderby1979[150],shoot
-117,ikp,wo,,,alves2013verbo[139],kill
-118,kax,wo,,,schuring2018kaxuyana[46],shoot
-119,uxc,e,,Prefix is obj:tu-.,franchetto1986kuikuro[278],kill
-120,mak,wə,,,maquiritaricaceres2011[127],shootkill
-121,ara,wo,,obj:tɨ-,alves2017arara[156],kill
-122,tri,wə,,,triomeira1999[234],shoothittarget
-123,wai,wo,,,waiwaihawkins1998[192],shoot
-124,way,(u)wə,,,wayanatavares2005[199],pierce; kill
-125,pan,wə,,,panarepayne2013[33],kill
-126,kar,wo,,,courtz2008carib[427],hit; kill
-127,ing,wə(nə),,shows obj:i-,cruz2005fonologia[260],kill
-128,mac,wɨ,,Does show obj:i-,macushicarson1982[132],kill
-129,pem,wə,,shows obj:i-,swiggers2010gramatica[127],kill
-130,kax,ma,,,schuring2018kaxuyana[89],knockdown
-131,uxc,ki,,,franchetto2010ergativity[128],takeaway; takeout
-132,way,(ɨ)kɨ(rɨ),,,wayanatavares2005[199],takefrom
-133,wai,nom,,,waiwaihawkins1998[192],leave
-134,apa,nomo,,shows obj:i-,camargo2002lexico[48],leave
-135,kar,no,,,courtz2008carib[324],leave
-136,hix,nom,,"Likely does not take obj:t-, given that it is missing from the list of t-adding verbs.",hixkaryanaderby1985[153],leave
-137,ikp,no,,"Not attested in a third-person form, but the verb was originally analyzed as obj:imo in this example: ex:ikp-161",alves2013verbo[333],leave
-138,mac,nɨmɨ,,with obj:i-,macushiabbott1991[117],leave
-139,mak,nəmə,,,maquiritaricaceres2011[446],leave
-140,ara,no,,shows obj:i- psrc:alves2017arara[221].,alves2017arara[127],leave
-141,tri,nə(mɨ),,,triomeira1999[693],leave
-142,way,nəmə,,,wayanatavares2005[158],leave
-143,mak,hə,,,maquiritaricaceres2011[127],shootablowgunarrow
-144,pem,pə,,,swiggers2010gramatica[219],shootblowgun
-145,mak,ka,,,maquiritaricaceres2011[127],digout
-146,pem,aka,,Vowel harmony from rc:ɨka,pemondearmellada1944dic[3],pierce; digout
-147,hix,okɨ,,with obj:s-; is obj:ekɨ otherwise,hixkaryanaderby1985[192],bring
-148,wai,ekɨ,,,waiwaihawkins1998[85],bring
-149,hix,oɲe,,has form obj:ʃeɲ,hixkaryanaderby1985[192],see
-150,kax,ene,,like in lg:hixka,schuring2018kaxuyana[124],see
-151,ara,eneŋ,,Has obj:t͡ʃ-. Also attested without prefix psrc:alves2017arara[90].,alves2017arara[98],see
-152,apa,ene,,Zero marked for third person.,koehn1986apalai[64],see
-153,pan,iɲi,,,panarepayne2013[50],see
-154,kar,ene,,,courtz2008carib[266],see
-155,ikp,eneŋ,,,alves2013verbo[161],see
-156,ing,ene,,,cruz2005fonologia[157],see
-157,uxc,iŋi,,,kuikurodossantos2007[58],see
-158,mak,ene,,,maquiritaricaceres2011[70],see
-159,tri,ene,,,triomeira1999[656],see
-160,wai,enɨ,,,waiwaihawkins1998[165],see
-161,way,ene,,,wayanatavares2005[217],see
-162,ikp,am,,Not clear if this is part of the cognate set.,alves2013verbo[202],build
-163,kar,amɨ,,,courtz2008carib[226],build
-164,mak,amə,,,maquiritaricaceres2011[145],build
-165,apa,amo,,,koehn1986apalai[87],construct
-166,uxc,iŋuhoki,,,franchetto1986kuikurotexts[65],forget
-167,ikp,ɨm,,,alves2013verbo[201],kill
-168,ikp,eŋ,,Both final rc:rɨ to obj:n and rc:ɨ to obj:e happens in lg:ikpeng. ,ikpengpacheco1997[116],put
-169,ara,okpe,,"Alternation obj:t- ~ obj:w-. Example given as obj:okpetke, but contains CONT suffix.",alves2017arara[156],make
-170,ikp,okpe,,,alves2013verbo[201],fix; keep
-171,ara,uge,,"Example given as obj:ugetke, but contains CONT suffix.",alves2017arara[156],shake
-172,ara,uktu,,,alves2017arara[156],begin
-173,ara,ubi,,"Example given as obj:ubitke, but contains CONT suffix.",alves2017arara[156],search
-174,kar,upi,,,courtz2008carib[414],lookfor
-175,ikp,uwi,,,ikpengpacheco2001[232],lookfor
-176,uxc,uhi,,,franchetto1986kuikuro[133],lookfor
-177,mak,uhi,,,maquiritaricaceres2011[338],lookfor
-178,way,upi,,,camargo2010wayana[52],lookfor; find
-179,apa,upi,,,camargo2002lexico[94],lookfor
-180,uxc,ha,,,franchetto1986kuikuro[216],do
-181,ara,ge,,,souza1993arara,cut
-182,kax,atpo,,,schuring2018kaxuyana[46],pierce
-183,hix,atho,,,hixkaryanaderby1985[131],inject
-184,wai,atpo,,,waiwaihawkins1998[150],pierce
-185,kax,kuku,,,schuring2018kaxuyana[59],try
-186,apa,kuʔ,,,camargo2002lexico[56],try
-187,kar,uʔku,,,courtz2008carib[411],try
-188,hix,kukma,,,hixkaryanaderby1985[226],try
-189,ara,uku,,Not on list in src:alves2017arara[156].,alves2017arara[113],try
-190,tri,kuku,,,triomeira1999[85],try
-191,wai,kukma,,"Likely does not take obj:t-, given that it is missing from the list of t-adding verbs.",hawkins2015dictionary,try
-192,way,ukuk,,,camargo2010wayana[49],try
-193,ikp,uku,,,ikpengpacheco2001[170],try
-194,ikp,ige,,,alves2013verbo[169],peel
-195,ikp,eru,,,alves2013verbo[46],give
-196,ara,udu,,,alves2017arara[156],give
-197,pan,utu,,Unclear if cognate.,panarepayne2013[327],give
-198,mak,u(tu),,,maquiritaricaceres2011[77],give
-199,uxc,tu,,,franchetto1986kuikuro[212],give
-200,kax,oʔ,,,schuring2018kaxuyana[41],search
-201,pan,ɨn,,,mattei1994diccionario[99],put
-pc-10,PC,*ɨrɨ,,nan,gildea2007greenberg[29],domake
-pc-14,PC,*wə,,nan,gildea2007greenberg[29],shootkill
-pc-2,PC,*ənə,,nan,gildea2007greenberg[29],eatmeat
-pc-9,PC,*pɨ,,nan,gildea2007greenberg[29],bathe
-pc-5,PC,*kapɨ,,nan,gildea2007greenberg[29],weave
-pc-1,PC,*əku,,nan,gildea2007greenberg[29],eatstarch
-pc-6,PC,*ɨkɨ,,nan,gildea2007greenberg[29],gratemanioc
-pc-11,PC,*jə,,nan,gildea2007greenberg[29],cookboil
-pc-3,PC,*əwɨ,,nan,gildea2007greenberg[29],takeout
-pc-7,PC,*papo,,nan,gildea2007greenberg[29],throwout
-pc-8,PC,*pətɨ,,nan,gildea2007greenberg[29],gatherfruit
-pc-4,PC,*urə,,nan,gildea2007greenberg[29],lightfire
-pc-12,PC,*mɨ,,nan,gildea2007greenberg[29],give
-pc-15,PC,*ma,,nan,gildea2007greenberg[29],fellfarm
-pc-17,PC,*nəmə,,nan,,leave
-pc-40,PC,*utu,,nan,gildea2007greenberg[49],give
-pc-16,PC,*ɨkɨrɨ,,nan,,takefrom
-pc-13,PC,*(u)putu,,nan,meira2005southern[140],know
-pc-32,PC,*upi,,nan,,search
-pc-38,PC,*kuku,,nan,courtz2008carib[411],try
-pc-21,PC,*əki,,nan,,bring
-pc-22,PC,*əne,,nan,,see
-pc-23,PC,*amɨ,,nan,,build
-pc-18,PC,*pə,,nan,,shootblowgun
-pc-19,PC,*ɨka,,nan,,digout
-pc-37,PC,*atpo,,nan,,pierce
-pc-28,PC,*okpe,,nan,,make
-pc-30,PC,*uke,,nan,,shake
-pc-31,PC,*uktu,,nan,,begin
-pc-36,PC,*ke,,nan,,cut
-pc-39,PC,*ike,,nan,,peeltakeoff
-pc-26,PC,*ɨm,,nan,,kill
-pc-35,PC,*pa,,nan,,do
-pc-24,PC,*inupoki,,nan,,forget
 pc-41,PC,*oC,,nan,,search
+pc-15,PC,*ma,,nan,gildea2007greenberg[29],fellfarm
+pc-12,PC,*mɨ,,nan,gildea2007greenberg[29],give
+pc-8,PC,*pətɨ,,nan,gildea2007greenberg[29],gatherfruit
+pc-7,PC,*papo,,nan,gildea2007greenberg[29],throwout
+pc-3,PC,*əwɨ,,nan,gildea2007greenberg[29],takeout
+pc-11,PC,*jə,,nan,gildea2007greenberg[29],cookboil
+pc-17,PC,*nəmə,,nan,,leave
+pc-6,PC,*ɨkɨ,,nan,gildea2007greenberg[29],gratemanioc
+pc-5,PC,*kapɨ,,nan,gildea2007greenberg[29],weave
+pc-9,PC,*pɨ,,nan,gildea2007greenberg[29],bathe
+pc-2,PC,*ənə,,nan,gildea2007greenberg[29],eatmeat
+pc-14,PC,*wə,,nan,gildea2007greenberg[29],shootkill
+pc-10,PC,*ɨrɨ,,nan,gildea2007greenberg[29],domake
+pc-24,PC,*inupoki,,nan,,forget
+pc-1,PC,*əku,,nan,gildea2007greenberg[29],eatstarch
+pc-40,PC,*utu,,nan,gildea2007greenberg[49],give
+pc-4,PC,*urə,,nan,gildea2007greenberg[29],lightfire
+pc-13,PC,*(u)putu,,nan,meira2005southern[140],know
+pc-35,PC,*pa,,nan,,do
+pc-26,PC,*ɨm,,nan,,kill
+pc-39,PC,*ike,,nan,,peeltakeoff
+pc-16,PC,*ɨkɨrɨ,,nan,,takefrom
+pc-31,PC,*uktu,,nan,,begin
+pc-30,PC,*uke,,nan,,shake
+pc-28,PC,*okpe,,nan,,make
+pc-37,PC,*atpo,,nan,,pierce
+pc-36,PC,*ke,,nan,,cut
+pc-18,PC,*pə,,nan,,shootblowgun
+pc-23,PC,*amɨ,,nan,,build
+pc-22,PC,*əne,,nan,,see
+pc-21,PC,*əki,,nan,,bring
+pc-38,PC,*kuku,,nan,courtz2008carib[411],try
+pc-19,PC,*ɨka,,nan,,digout
+pc-32,PC,*upi,,nan,,search
+87,kax,irii,,,schuring2018kaxuyana[195],make
+98,kax,jo,,,pc[Spike Gildea],cook
+103,kax,mɨ,,,schuring2018kaxuyana[138],give
+182,kax,atpo,,,schuring2018kaxuyana[46],pierce
+150,kax,ene,,like in lg:hixka,schuring2018kaxuyana[124],see
+185,kax,kuku,,,schuring2018kaxuyana[59],try
+200,kax,oʔ,,,schuring2018kaxuyana[41],search
+73,kax,ɨhɨ,,,pc[Spike Gildea],bathe
+130,kax,ma,,,schuring2018kaxuyana[89],knockdown
+52,kax,(i)ki,,Ambiguous whether it is obj:iki or obj:ki.,pc[Spike Gildea],gratemanioc
+118,kax,wo,,,schuring2018kaxuyana[46],shoot
+4,kax,ok(u),,,pc[Spike Gildea],eatstarch
+39,kax,kahɨ,,,schuring2018kaxuyana[90],weave
+17,kax,ono,,,pc[Spike Gildea],eatmeat
+97,hix,jo,,,hixkaryanaderby1979[150],boil
+85,hix,erʲe; e,,"Has obj:t͡ʃ-, probably because of the /e/.",hixkaryanaderby1985[192],do; fix; putdown
+71,hix,ɨhɨ,,,hixkaryanaderby1979[150],bathe
+188,hix,kukma,,,hixkaryanaderby1985[226],try
+147,hix,okɨ,,with obj:s-; is obj:ekɨ otherwise,hixkaryanaderby1985[192],bring
+102,hix,ɨmɨ,,,hixkaryanaderby1979[150],give
+183,hix,atho,,,hixkaryanaderby1985[131],inject
+30,hix,owɨ,,,hixkaryanaderby1979[150],takeaway
+108,hix,hutwa,,,hixkaryanaderby1979[126],know
+16,hix,ono,,,hixkaryanaderby1979[150],eatmeat
+116,hix,wo,,,hixkaryanaderby1979[150],shoot
+136,hix,nom,,"Likely does not take obj:t-, given that it is missing from the list of t-adding verbs.",hixkaryanaderby1985[153],leave
+46,hix,kahɨ,,Not the default verb for 'to make'. Probably doesn't take obj:t-.,hixkaryanaderby1985[182],make
+149,hix,oɲe,,has form obj:ʃeɲ,hixkaryanaderby1985[192],see
+2,hix,okɨ,,,hixkaryanaderby1985[193],eatbread
+123,wai,wo,,,waiwaihawkins1998[192],shoot
+133,wai,nom,,,waiwaihawkins1998[192],leave
+184,wai,atpo,,,waiwaihawkins1998[150],pierce
+104,wai,mɨ,,,waiwaihawkins1998[192],give
+160,wai,enɨ,,,waiwaihawkins1998[165],see
+100,wai,jo,,,waiwaihawkins1998[192],boil
+92,wai,irʲ,,,waiwaihawkins1998[192],put; fix; make
+191,wai,kukma,,"Likely does not take obj:t-, given that it is missing from the list of t-adding verbs.",hawkins2015dictionary,try
+113,wai,htɨnopɨ,,,waiwaihawkins1998[41],know
+78,wai,pɨ,,,waiwaihawkins1998[192],bathe
+148,wai,ekɨ,,,waiwaihawkins1998[85],bring
+32,wai,ow,,,waiwaihawkins1998[192],takeout
+49,wai,kaɸu,,,hawkins2015dictionary,weave
+57,wai,ih; k,,,waiwaihawkins1998[192],grate
+22,wai,ono,,,waiwaihawkins1998[192],eatmeat
+8,wai,oh,,,waiwaihawkins1998[192],eatbread
+181,ara,ge,,,souza1993arara,cut
+20,ara,oŋoŋ,,Alternation obj:t- ~ obj:w-.,alves2017arara[156],bite
+173,ara,ubi,,"Example given as obj:ubitke, but contains CONT suffix.",alves2017arara[156],search
+172,ara,uktu,,,alves2017arara[156],begin
+41,ara,ɨgabɨ,,,alves2017arara[156],weave
+171,ara,uge,,"Example given as obj:ugetke, but contains CONT suffix.",alves2017arara[156],shake
+121,ara,wo,,obj:tɨ-,alves2017arara[156],kill
+169,ara,okpe,,"Alternation obj:t- ~ obj:w-. Example given as obj:okpetke, but contains CONT suffix.",alves2017arara[156],make
+189,ara,uku,,Not on list in src:alves2017arara[156].,alves2017arara[113],try
+55,ara,ɨgɨ,,,alves2017arara[156],grate
+76,ara,ɨbɨ,,,alves2017arara[156],bathe
+151,ara,eneŋ,,Has obj:t͡ʃ-. Also attested without prefix psrc:alves2017arara[90].,alves2017arara[98],see
+140,ara,no,,shows obj:i- psrc:alves2017arara[221].,alves2017arara[127],leave
+196,ara,udu,,,alves2017arara[156],give
+72,ikp,ip,,,alves2013verbo[202],bathe
+3,ikp,ogu,,,ikpengpacheco2001[155],eat
+117,ikp,wo,,,alves2013verbo[139],kill
+195,ikp,eru,,,alves2013verbo[46],give
+155,ikp,eneŋ,,,alves2013verbo[161],see
+194,ikp,ige,,,alves2013verbo[169],peel
+167,ikp,ɨm,,,alves2013verbo[201],kill
+193,ikp,uku,,,ikpengpacheco2001[170],try
+170,ikp,okpe,,,alves2013verbo[201],fix; keep
+168,ikp,eŋ,,Both final rc:rɨ to obj:n and rc:ɨ to obj:e happens in lg:ikpeng. ,ikpengpacheco1997[116],put
+137,ikp,no,,"Not attested in a third-person form, but the verb was originally analyzed as obj:imo in this example: ex:ikp-161",alves2013verbo[333],leave
+175,ikp,uwi,,,ikpengpacheco2001[232],lookfor
+162,ikp,am,,Not clear if this is part of the cognate set.,alves2013verbo[202],build
+122,tri,wə,,,triomeira1999[234],shoothittarget
+56,tri,(ɨ)kɨ,,Ambiguous whether it is obj:ɨkɨ or obj:kɨ.,triomeira1999[234],grate
+159,tri,ene,,,triomeira1999[656],see
+7,tri,ə(ku),,,triomeira1999[234],eatflour
+112,tri,puunə(pɨ),,,triomeira1999[256],thinkabout
+141,tri,nə(mɨ),,,triomeira1999[693],leave
+190,tri,kuku,,,triomeira1999[85],try
+67,tri,pə(tɨ),,,triomeira1999[234],gatherfruit
+42,tri,ka(pɨ),,,triomeira1999[234],weave
+34,tri,urə,,,triomeira1999[234],lightfire
+21,tri,ənə,,,triomeira1999[234],eatmeat
+99,tri,je,,,triomeira1999[234],cook
+62,tri,papo,,,triomeira1999[234],throwoutwaste
+31,tri,əu,,,triomeira1999[234],takeout
+77,tri,pɨ,,,triomeira1999[234],bathe
+91,tri,rɨ,,,triomeira1999[700],domake; put
+83,way,(u)pɨ,,No example in the right context found.,wayanatavares2005[192],bathe
+132,way,(ɨ)kɨ(rɨ),,,wayanatavares2005[199],takefrom
+142,way,nəmə,,,wayanatavares2005[158],leave
+43,way,kap(ɨ),,,wayanatavares2005[199],weave
+192,way,ukuk,,,camargo2010wayana[49],try
+161,way,ene,,,wayanatavares2005[217],see
+9,way,ək(u),,,wayanatavares2005[199],eatbread; havesex
+33,way,əwu,,,camargo2010wayana[38],takeout
+58,way,ɨkɨ,,,wayanatavares2005[199],grate
+93,way,ɨrɨ,,,wayanatavares2005[199],make; put
+23,way,ə,,,wayanatavares2005[199],eatmeat; bite
+124,way,(u)wə,,,wayanatavares2005[199],pierce; kill
+101,way,je,,,wayanatavares2005[199],cook
+65,way,upapɨ,,,camargo2010wayana[52],throwout
+36,way,urə,,,camargo2010wayana[49],lit
+114,way,potnəpɨ,,,wayanatavares2005[391],know
+178,way,upi,,,camargo2010wayana[52],lookfor; find
+69,way,upətɨ,,,wayanatavares2005[446],pickfruit
+165,apa,amo,,,koehn1986apalai[87],construct
+29,apa,ou,,,camargo2002lexico[73],takeout
+186,apa,kuʔ,,,camargo2002lexico[56],try
+15,apa,õ,,,koehn1986apalai[68],eatmeat
+152,apa,ene,,Zero marked for third person.,koehn1986apalai[64],see
+179,apa,upi,,,camargo2002lexico[94],lookfor
+38,apa,kaʔ,,Also attested with obj:i- psrc:koehn1995apalai[16],camargo2002lexico[53],weavebasket
+1,apa,oʔ,,,camargo2002lexico[66],eatstarchmeat; havesex
+84,apa,ri,,,koehn1986apalai[58],domake
+63,apa,paʔ,,shows obj:i-,camargo2002lexico[74],throwout
+70,apa,poʔ,,no examples found at all,koehn1995apalai[42],pickfruit; kiss
+134,apa,nomo,,shows obj:i-,camargo2002lexico[48],leave
+106,apa,putu,,"Only appears in derived forms, main function being taken over by obj:waro. Also obj:enetuputɨ 'to understand' (src:koehn1995apalai[12]) -combination of ‘to see’ and ‘to understand’?. Contains fossilized obj:t-. Also unglossed example in src:camargo2002lexico[49]: obj:tupuʔnanko.",koehn1995apalai[43],know
+96,apa,je,,,koehn1995apalai[53],cook
+115,apa,uo,,,camargo2002lexico[94],shootkill
+51,apa,ɨʔ,,"obj:ɨʔnõko ‘weaving’, also obj:tɨʔnõko.",koehn1995apalai[57],grate
+45,kar,kapɨ,,,courtz2008carib[291],make; braid
+64,kar,papɨ,,,courtz2008carib[337],strew; sprinkle
+68,kar,potɨ,,,courtz2008carib[351],pick
+126,kar,wo,,,courtz2008carib[427],hit; kill
+25,kar,ono,,,courtz2008carib[330],eatmeat
+94,kar,ɨrɨ,,,courtz2008carib[438],give; put
+187,kar,uʔku,,,courtz2008carib[411],try
+59,kar,kɨ,,,courtz2008carib[309],rasp
+163,kar,amɨ,,,courtz2008carib[226],build
+174,kar,upi,,,courtz2008carib[414],lookfor
+135,kar,no,,,courtz2008carib[324],leave
+154,kar,ene,,,courtz2008carib[266],see
+35,kar,uro,,,courtz2008carib[415],blowatfan
+12,kar,eku,,,courtz2008carib[253],fornicate
+107,kar,uputɨ; ukutɨ,,,courtz2008carib[412],know
+75,mak,hɨ,,,maquiritaricaceres2011[127],wash
+90,mak,ɨrɨ,,Also occurs without obj:tɨ- psrc:maquiritaricaceres2011[145].,maquiritaricaceres2011[127],do; put; bless; dominate
+177,mak,uhi,,,maquiritaricaceres2011[338],lookfor
+145,mak,ka,,,maquiritaricaceres2011[127],digout
+40,mak,kahɨ,,,maquiritaricaceres2011[127],weave
+198,mak,u(tu),,,maquiritaricaceres2011[77],give
+19,mak,ənə,,,maquiritaricaceres2011[127],eatmeat
+61,mak,haho,,,maquiritaricaceres2011[127],killhumansspilltakeouttrash
+164,mak,amə,,,maquiritaricaceres2011[145],build
+54,mak,(ɨ)kɨ,,Ambiguous whether it is obj:ɨkɨ or obj:kɨ.,maquiritaricaceres2011[127],gratemanioc
+158,mak,ene,,,maquiritaricaceres2011[70],see
+6,mak,əkku,,,maquiritaricaceres2011[127],eatstarch
+139,mak,nəmə,,,maquiritaricaceres2011[446],leave
+143,mak,hə,,,maquiritaricaceres2011[127],shootablowgunarrow
+66,mak,hətɨ,,,maquiritaricaceres2011[127],collectfruit
+120,mak,wə,,,maquiritaricaceres2011[127],shootkill
+10,aka,əku,,,akawaiocaesar2003[357],eatnuts
+26,ing,anɨ,,,cruz2005fonologia[132],eatmeat
+80,ing,pɨnə,,,cruz2005fonologia[262],bathe
+50,ing,kapə,,,cruz2005fonologia[396],weave
+86,ing,tɨrɨ; tərɨ; tərə,,Always with /t/.,cruz2005fonologia[243],give
+156,ing,ene,,,cruz2005fonologia[157],see
+109,ing,ʔtu,,,cruz2005fonologia[417],know
+127,ing,wə(nə),,shows obj:i-,cruz2005fonologia[260],kill
+28,pem,nə,,<ne>,pemondearmellada1944dic[197],eat
+111,pem,putu,,takes obj:i- (src:pemondearmellada1944dic[180]),pemondearmellada1944dic[235],know
+146,pem,aka,,Vowel harmony from rc:ɨka,pemondearmellada1944dic[3],pierce; digout
+129,pem,wə,,shows obj:i-,swiggers2010gramatica[127],kill
+144,pem,pə,,,swiggers2010gramatica[219],shootblowgun
+95,pem,irɨ,,,mosonyi2000pemon[541],give
+48,pem,kapɨ,,<kapui>,pemondearmellada1944dic[238],weavemake
+14,pem,ku,,,pemondearmellada1944dic[197],eat
+82,pem,pɨ,,<pui>,pemondearmellada1944dic[192],bathe
+60,pem,kɨ,,<ki>,pemondearmellada1944dic[73],grate
+128,mac,wɨ,,Does show obj:i-,macushicarson1982[132],kill
+138,mac,nɨmɨ,,with obj:i-,macushiabbott1991[117],leave
+13,mac,(j)aku,,unclear segmentation,macushiabbott1991[35],eatbread
+47,mac,kapɨ,,"Does not show obj:i-, either: ex:mac-53",macushicarson1982[90],weave
+27,mac,anɨ,,"Shows obj:j-, but unclear anyways!",macushiabbott1991[134],eat
+89,mac,tɨ(r)ɨ,,Always with /t/.,macushiabbott1991[87],give; put; let
+81,mac,pɨ,,,macushicarson1982[21],bathe
+110,mac,epuʔtɨ,,,macushiabbott1991[47],know
+24,pan,ɨnə,,,panarepayne2013[99],eatmeat; bite
+44,pan,ɨkapɨ,,Not sure if it should be obj:kapɨ.,panarepayne2013[228],weave
+125,pan,wə,,,panarepayne2013[33],kill
+153,pan,iɲi,,,panarepayne2013[50],see
+79,pan,ɨpɨ,,,panarepayne2013[244],bathe
+201,pan,ɨn,,,mattei1994diccionario[99],put
+197,pan,utu,,Unclear if cognate.,panarepayne2013[327],give
+11,pan,uku,,,panarepayne2013[99],eatsoft
+157,uxc,iŋi,,,kuikurodossantos2007[58],see
+5,uxc,eku,,,franchetto2010ergativity[128],eatvegetable
+53,uxc,ki,,,kuikurodossantos2007[241],grate
+88,uxc,ɨi,,,franchetto1986kuikuro[218],put; make
+166,uxc,iŋuhoki,,,franchetto1986kuikurotexts[65],forget
+18,uxc,eŋe,,,franchetto1986kuikuro[180],eatmeat
+176,uxc,uhi,,,franchetto1986kuikuro[133],lookfor
+180,uxc,ha,,,franchetto1986kuikuro[216],do
+74,uxc,hɨ,,,franchetto2010ergativity[128],bathe
+37,uxc,uɣi,,,franchetto1986kuikurotexts[14],blow; smoke
+105,uxc,uhu,,Also obj:uhumi 'send'.,franchetto2010ergativity[128],know
+199,uxc,tu,,,franchetto1986kuikuro[212],give
+131,uxc,ki,,,franchetto2010ergativity[128],takeaway; takeout
+119,uxc,e,,Prefix is obj:tu-.,franchetto1986kuikuro[278],kill
