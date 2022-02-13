@@ -9,20 +9,20 @@ The following languages are featured in the study, although the descriptive cove
 | :-- | :-- | :-- |
 | Hixkaryána | hixk1239 |  |
 | Upper Xingu Carib | nucl1656 |  |
-| Waiwai | waiw1244 |  |
-| Ye'kwana | maqu1238 |  |
-| Akawaio | akaw1239 |  |
-| Kari'ña | gali1262 |  |
 | Ikpeng | ikpe1245 |  |
 | Wayana | waya1269 |  |
-| Pemón | pemo1248 |  |
-| Apalaí | apal1257 |  |
-| Panare | enap1235 |  |
-| Tiriyó | trio1238 |  |
-| Macushi | macu1259 |  |
-| Werikyana | kaxu1237 |  |
-| Arara | para1310 |  |
+| Ye'kwana | maqu1238 |  |
 | Ingarikó | inga1250 |  |
+| Tiriyó | trio1238 |  |
+| Akawaio | akaw1239 |  |
+| Panare | enap1235 |  |
+| Apalaí | apal1257 |  |
+| Werikyana | kaxu1237 |  |
+| Pemón | pemo1248 |  |
+| Arara | para1310 |  |
+| Macushi | macu1259 |  |
+| Waiwai | waiw1244 |  |
+| Kari'ña | gali1262 |  |
 | Proto-Cariban | cari1283 |  |
 
 
@@ -170,21 +170,21 @@ None
 Potential partial cognate in lg:apalai: obj:iʔpa(ʔ) 'to wash' (src:camargo2002lexico[45]).
 
 
-| Form | Language | - | - | - | - | 
-| :-- | :-- |  :-- |  :-- |  :-- |  :-- | 
-| _ɨhɨ_ | Hixkaryána | - | ɨ | h | ɨ | 
-| _ip_ | Ikpeng | - | i | p | - | 
-| _ɨhɨ_ | Werikyana | - | ɨ | h | ɨ | 
-| _hɨ_ | Upper Xingu Carib | - | - | h | ɨ | 
-| _hɨ_ | Ye'kwana | - | - | h | ɨ | 
-| _ɨbɨ_ | Arara | - | ɨ | b | ɨ | 
-| _pɨ_ | Tiriyó | - | - | p | ɨ | 
-| _pɨ_ | Waiwai | - | - | p | ɨ | 
-| _ɨpɨ_ | Panare | - | ɨ | p | ɨ | 
-| _pɨnə_ | Ingarikó | p | ɨ | n | ə | 
-| _pɨ_ | Macushi | - | - | p | ɨ | 
-| _pɨ_ | Pemón | - | - | p | ɨ | 
-| _(u)pɨ_ | Wayana | - | u | p | ɨ | 
+| Form | Language | - | - | - | 
+| :-- | :-- |  :-- |  :-- |  :-- | 
+| _ɨhɨ_ | Hixkaryána | ɨ | h | ɨ | 
+| _ip_ | Ikpeng | i | p | - | 
+| _ɨhɨ_ | Werikyana | ɨ | h | ɨ | 
+| _hɨ_ | Upper Xingu Carib | - | h | ɨ | 
+| _hɨ_ | Ye'kwana | - | h | ɨ | 
+| _ɨbɨ_ | Arara | ɨ | b | ɨ | 
+| _pɨ_ | Tiriyó | - | p | ɨ | 
+| _pɨ_ | Waiwai | - | p | ɨ | 
+| _ɨpɨ_ | Panare | ɨ | p | ɨ | 
+| _pɨnə_ | Ingarikó | - | p | ɨ | 
+| _pɨ_ | Macushi | - | p | ɨ | 
+| _pɨ_ | Pemón | - | p | ɨ | 
+| _(u)pɨ_ | Wayana | u | p | ɨ | 
 
 None
 
@@ -258,21 +258,21 @@ None
 
 | Form | Language | - | - | - | - | 
 | :-- | :-- |  :-- |  :-- |  :-- |  :-- | 
-| _uo_ | Apalaí | - | u | - | o | 
-| _wo_ | Hixkaryána | - | - | w | o | 
-| _wo_ | Ikpeng | - | - | w | o | 
-| _wo_ | Werikyana | - | - | w | o | 
-| _e_ | Upper Xingu Carib | - | e | - | - | 
-| _wə_ | Ye'kwana | - | - | w | ə | 
-| _wo_ | Arara | - | - | w | o | 
-| _wə_ | Tiriyó | - | - | w | ə | 
-| _wo_ | Waiwai | - | - | w | o | 
-| _(u)wə_ | Wayana | - | u | w | ə | 
-| _wə_ | Panare | - | - | w | ə | 
-| _wo_ | Kari'ña | - | - | w | o | 
-| _wə(nə)_ | Ingarikó | w | ə | n | ə | 
-| _wɨ_ | Macushi | - | - | w | ɨ | 
-| _wə_ | Pemón | - | - | w | ə | 
+| _uo_ | Apalaí | - | - | u | o | 
+| _wo_ | Hixkaryána | - | w | o | - | 
+| _wo_ | Ikpeng | - | w | o | - | 
+| _wo_ | Werikyana | - | w | o | - | 
+| _e_ | Upper Xingu Carib | - | - | e | - | 
+| _wə_ | Ye'kwana | - | w | ə | - | 
+| _wo_ | Arara | - | w | o | - | 
+| _wə_ | Tiriyó | - | w | ə | - | 
+| _wo_ | Waiwai | - | w | o | - | 
+| _(u)wə_ | Wayana | u | w | ə | - | 
+| _wə_ | Panare | - | w | ə | - | 
+| _wo_ | Kari'ña | - | w | o | - | 
+| _wə(nə)_ | Ingarikó | - | w | ə | - | 
+| _wɨ_ | Macushi | - | w | ɨ | - | 
+| _wə_ | Pemón | - | w | ə | - | 
 
 None
 
@@ -282,6 +282,44 @@ Only lg:kaxui.
 | Form | Language | - | - | 
 | :-- | :-- |  :-- |  :-- | 
 | _ma_ | Werikyana | m | a | 
+
+None
+
+
+
+
+| Form | Language | - | - | - | - | - | 
+| :-- | :-- |  :-- |  :-- |  :-- |  :-- |  :-- | 
+| _ki_ | Upper Xingu Carib | - | k | - | - | i | 
+| _(ɨ)kɨ(rɨ)_ | Wayana | ɨ | k | ɨ | r | ɨ | 
+
+None
+
+src:courtz2008carib[324] gives lg:kapon obj:nəmə.
+
+
+| Form | Language | - | - | - | - | 
+| :-- | :-- |  :-- |  :-- |  :-- |  :-- | 
+| _nom_ | Waiwai | n | o | m | - | 
+| _nomo_ | Apalaí | n | o | m | o | 
+| _no_ | Kari'ña | n | o | - | - | 
+| _nom_ | Hixkaryána | n | o | m | - | 
+| _no_ | Ikpeng | n | o | - | - | 
+| _nɨmɨ_ | Macushi | n | ɨ | m | ɨ | 
+| _nəmə_ | Ye'kwana | n | ə | m | ə | 
+| _no_ | Arara | n | o | - | - | 
+| _nə(mɨ)_ | Tiriyó | n | ə | m | ɨ | 
+| _nəmə_ | Wayana | n | ə | m | ə | 
+
+None
+
+Cultural background: lg:waiwai speakers do not use blowguns, but bow and arrow (src:howard2001wrought[75]), same for lg:hixka (src:hixkaryanaderby1985[xvi]), lg:trio, lg:wayana (src:wayanatavares2005[vi]), lg:apalai. lg:kalina has obj:pokopau and obj:tamakusi 'blowgun' (src:courtz2008carib[347, 377]), but no corresponding verb. lg:panare speakers use blowguns (src:henley1982panare[44]), but no cognate verb found. lg:pemon cognate obj:pə (src:swiggers2010gramatica[219]).
+
+
+| Form | Language | - | - | 
+| :-- | :-- |  :-- |  :-- | 
+| _hə_ | Ye'kwana | h | ə | 
+| _pə_ | Pemón | p | ə | 
 
 
 

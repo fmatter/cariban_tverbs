@@ -23,6 +23,9 @@ The following languages are featured in the study, although the descriptive cove
 [cogset](CognatesetTable?#cldf:13)
 [cogset](CognatesetTable?#cldf:14)
 [cogset](CognatesetTable?#cldf:15)
+[cogset](CognatesetTable?#cldf:16)
+[cogset](CognatesetTable?#cldf:17)
+[cogset](CognatesetTable?#cldf:18)
 
 
 References:
