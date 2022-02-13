@@ -32,6 +32,23 @@ class Dataset(BaseDataset):
         """
         forms = pd.read_csv("raw/forms.csv", keep_default_na=False, dtype=str)
         cognatesets = pd.read_csv("raw/cognates.csv", keep_default_na=False, dtype=str)
+        for i, row in cognatesets.iterrows():
+            pc_id = "pc-" + str(row["ID"])
+            parameters = [slug(x) for x in row["Meaning"].split("; ")]
+            forms.append(
+                {
+                    "Language_ID": "PC",
+                    "ID": pc_id,
+                    "Form": "*" + row["Form"],
+                    "Cognateset_ID": row["ID"],
+                    "Parameter_ID": row["Meaning"],
+                    "Source": [row["Source"]],
+                    "t?": "?",
+                },
+                ignore_index=True
+            )
+        print(forms)
+
         cognates = [
             {
                 # "ID": f"""{x["ID"]}-{x["Cognateset_ID"]}""",
@@ -65,7 +82,7 @@ class Dataset(BaseDataset):
             cog_df.drop(columns=["Segments", "Cognates", "Form"], inplace=True)
             cog_df["Slice"] = cog_df["Slice"].map(str)
             cog_df.rename(columns={"Slice": "Segment_Slice"}, inplace=True)
-            print(cog_df)
+            # print(cog_df)
             cognates = cognates.append(cog_df, ignore_index=True)
         
         forms.drop(columns=["Cognateset_ID"], inplace=True)
@@ -129,18 +146,6 @@ class Dataset(BaseDataset):
         for i, row in cognatesets.iterrows():
             pc_id = "pc-" + str(row["ID"])
             parameters = [slug(x) for x in row["Meaning"].split("; ")]
-            args.writer.objects["FormTable"].append(
-                {
-                    "Language_ID": "PC",
-                    "ID": pc_id,
-                    "Form": "*" + row["Form"],
-                    "Parameter_ID": parameters,
-                    "Source": [row["Source"]],
-                }
-            )
-            args.writer.objects["CognateTable"].append(
-                {"Form_ID": pc_id, "ID": row["ID"], "Cognateset_ID": row["ID"]}
-            )
             args.writer.objects["CognatesetTable"].append(
                 {"ID": row["ID"], "Name": "*"+row["Form"], "Description": row["Description"]}
             )
