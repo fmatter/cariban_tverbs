@@ -7,22 +7,22 @@ The following languages are featured in the study, although the descriptive cove
 
 | Name | Glottocode | ISO 639-3 |
 | :-- | :-- | :-- |
-| Macushi | macu1259 |  |
-| Kari'ña | gali1262 |  |
-| Proto-Cariban | cari1283 |  |
-| Ye'kwana | maqu1238 |  |
-| Apalaí | apal1257 |  |
-| Ikpeng | ikpe1245 |  |
-| Hixkaryána | hixk1239 |  |
-| Tiriyó | trio1238 |  |
-| Waiwai | waiw1244 |  |
 | Akawaio | akaw1239 |  |
-| Pemón | pemo1248 |  |
+| Ye'kwana | maqu1238 |  |
+| Kari'ña | gali1262 |  |
+| Waiwai | waiw1244 |  |
+| Tiriyó | trio1238 |  |
 | Ingarikó | inga1250 |  |
-| Panare | enap1235 |  |
-| Upper Xingu Carib | nucl1656 |  |
-| Arara | para1310 |  |
+| Proto-Cariban | cari1283 |  |
+| Ikpeng | ikpe1245 |  |
 | Wayana | waya1269 |  |
+| Arara | para1310 |  |
+| Pemón | pemo1248 |  |
+| Upper Xingu Carib | nucl1656 |  |
+| Apalaí | apal1257 |  |
+| Hixkaryána | hixk1239 |  |
+| Panare | enap1235 |  |
+| Macushi | macu1259 |  |
 | Werikyana | kaxu1237 |  |
 
 
@@ -51,6 +51,7 @@ src:courtz2008carib[253] gives an lg:apalai cognate obj:eʔ, which src:camargo20
 | _eku_ | Kari'ña | - | e | - | k | u | - | 
 | _(j)aku_ | Macushi | j | a | - | k | u | - | 
 | _ku_ | Pemón | - | - | - | k | u | - | 
+| _*əku_ | Proto-Cariban | - | ə | - | k | u | - | 
 
 None
 
@@ -74,6 +75,7 @@ None of the reflexes show obj:t-.
 | _anɨ_ | Ingarikó | a | n | ɨ | - | 
 | _anɨ_ | Macushi | a | n | ɨ | - | 
 | _nə_ | Pemón | - | n | ə | - | 
+| _*ənə_ | Proto-Cariban | ə | n | ə | - | 
 
 None
 
@@ -87,6 +89,7 @@ None
 | _əu_ | Tiriyó | ə | - | u | 
 | _ow_ | Waiwai | o | w | - | 
 | _əwu_ | Wayana | ə | w | u | 
+| _*əwɨ_ | Proto-Cariban | ə | w | ɨ | 
 
 None
 
@@ -99,6 +102,7 @@ None
 | _uro_ | Kari'ña | u | r | o | 
 | _urə_ | Wayana | u | r | ə | 
 | _uɣi_ | Upper Xingu Carib | u | ɣ | i | 
+| _*urə_ | Proto-Cariban | u | r | ə | 
 
 None
 
@@ -120,6 +124,7 @@ None
 | _kapɨ_ | Pemón | - | k | a | p | ɨ | 
 | _kaɸu_ | Waiwai | - | k | a | ɸ | u | 
 | _kapə_ | Ingarikó | - | k | a | p | ə | 
+| _*kapɨ_ | Proto-Cariban | - | k | a | p | ɨ | 
 
 None
 
@@ -138,6 +143,7 @@ src:courtz2008carib[309] gives Pemongan cognates obj:kɨ(nɨ), which I was unabl
 | _ɨkɨ_ | Wayana | ɨ | k | ɨ | 
 | _kɨ_ | Kari'ña | - | k | ɨ | 
 | _kɨ_ | Pemón | - | k | ɨ | 
+| _*ɨkɨ_ | Proto-Cariban | ɨ | k | ɨ | 
 
 None
 
@@ -151,6 +157,7 @@ Parukotoan has obj:arʲma 'to throw away'.
 | _paʔ_ | Apalaí | - | p | a | ʔ | - | 
 | _papɨ_ | Kari'ña | - | p | a | p | ɨ | 
 | _upapɨ_ | Wayana | u | p | a | p | ɨ | 
+| _*papo_ | Proto-Cariban | - | p | a | p | o | 
 
 None
 
@@ -164,6 +171,7 @@ src:courtz2008carib[351] gives lg:apalai obj:potɨ and lg:kapon obj:pətɨ, whic
 | _potɨ_ | Kari'ña | - | p | o | t | ɨ | 
 | _upətɨ_ | Wayana | u | p | ə | t | ɨ | 
 | _poʔ_ | Apalaí | - | p | o | ʔ | - | 
+| _*pətɨ_ | Proto-Cariban | - | p | ə | t | ɨ | 
 
 None
 
@@ -185,6 +193,7 @@ Potential partial cognate in lg:apalai: obj:iʔpa(ʔ) 'to wash' (src:camargo2002
 | _pɨ_ | Macushi | - | p | ɨ | 
 | _pɨ_ | Pemón | - | p | ɨ | 
 | _(u)pɨ_ | Wayana | u | p | ɨ | 
+| _*pɨ_ | Proto-Cariban | - | p | ɨ | 
 
 None
 
@@ -207,6 +216,7 @@ None
 | _irɨ_ | Pemón | - | i | r | - | ɨ | - | 
 | _eŋ_ | Ikpeng | - | - | - | e | - | ŋ | 
 | _ɨn_ | Panare | - | - | - | ɨ | - | n | 
+| _*ɨrɨ_ | Proto-Cariban | - | ɨ | r | - | ɨ | - | 
 
 None
 
@@ -221,6 +231,7 @@ None
 | _je_ | Tiriyó | j | e | 
 | _jo_ | Waiwai | j | o | 
 | _je_ | Wayana | j | e | 
+| _*jə_ | Proto-Cariban | j | ə | 
 
 None
 
@@ -232,6 +243,7 @@ Seems to be exclusive to Parukotoan.
 | _ɨmɨ_ | Hixkaryána | ɨ | m | ɨ | 
 | _mɨ_ | Werikyana | - | m | ɨ | 
 | _mɨ_ | Waiwai | - | m | ɨ | 
+| _*mɨ_ | Proto-Cariban | - | m | ɨ | 
 
 None
 
@@ -250,6 +262,7 @@ None
 | _puunə(pɨ)_ | Tiriyó | p | uu | - | - | - | - | 
 | _htɨnopɨ_ | Waiwai | - | - | h | - | t | ɨ | 
 | _potnəpɨ_ | Wayana | p | o | - | - | t | - | 
+| _*(u)putu_ | Proto-Cariban | - | u | p | u | t | u | 
 
 None
 
@@ -273,6 +286,7 @@ None
 | _wə(nə)_ | Ingarikó | - | w | ə | - | 
 | _wɨ_ | Macushi | - | w | ɨ | - | 
 | _wə_ | Pemón | - | w | ə | - | 
+| _*wə_ | Proto-Cariban | - | w | ə | - | 
 
 None
 
@@ -282,6 +296,7 @@ Only lg:kaxui.
 | Form | Language | - | - | 
 | :-- | :-- |  :-- |  :-- | 
 | _ma_ | Werikyana | m | a | 
+| _*ma_ | Proto-Cariban | m | a | 
 
 None
 
@@ -292,6 +307,7 @@ None
 | :-- | :-- |  :-- |  :-- |  :-- |  :-- |  :-- | 
 | _ki_ | Upper Xingu Carib | - | k | - | - | i | 
 | _(ɨ)kɨ(rɨ)_ | Wayana | ɨ | k | ɨ | r | ɨ | 
+| _*ɨkɨrɨ_ | Proto-Cariban | ɨ | k | ɨ | r | ɨ | 
 
 None
 
@@ -310,6 +326,7 @@ src:courtz2008carib[324] gives lg:kapon obj:nəmə.
 | _no_ | Arara | n | o | - | - | 
 | _nə(mɨ)_ | Tiriyó | n | ə | m | ɨ | 
 | _nəmə_ | Wayana | n | ə | m | ə | 
+| _*nəmə_ | Proto-Cariban | n | ə | m | ə | 
 
 None
 
@@ -320,6 +337,7 @@ Cultural background: lg:waiwai speakers do not use blowguns, but bow and arrow (
 | :-- | :-- |  :-- |  :-- | 
 | _hə_ | Ye'kwana | h | ə | 
 | _pə_ | Pemón | p | ə | 
+| _*pə_ | Proto-Cariban | p | ə | 
 
 None
 
@@ -330,6 +348,7 @@ Only lg:maqui, also lg:pemon
 | :-- | :-- |  :-- |  :-- |  :-- | 
 | _ka_ | Ye'kwana | - | k | a | 
 | _aka_ | Pemón | a | k | a | 
+| _*ɨka_ | Proto-Cariban | ɨ | k | a | 
 
 None
 
@@ -340,6 +359,7 @@ None
 | :-- | :-- |  :-- |  :-- |  :-- | 
 | _okɨ_ | Hixkaryána | o | k | ɨ | 
 | _ekɨ_ | Waiwai | e | k | ɨ | 
+| _*əki_ | Proto-Cariban | ə | k | i | 
 
 None
 
@@ -361,6 +381,7 @@ Has form obj:eɲe with obj:ʃ- in lg:hixka, also found in lg:arara and lg:kaxui,
 | _ene_ | Tiriyó | e | n | e | - | 
 | _enɨ_ | Waiwai | e | n | ɨ | - | 
 | _ene_ | Wayana | e | n | e | - | 
+| _*əne_ | Proto-Cariban | ə | n | e | - | 
 
 None
 
@@ -373,6 +394,7 @@ src:courtz2008carib[226] also mentions lg:pemon and lg:kapon obj:amɨ.
 | _amɨ_ | Kari'ña | a | m | ɨ | 
 | _amə_ | Ye'kwana | a | m | ə | 
 | _amo_ | Apalaí | a | m | o | 
+| _*amɨ_ | Proto-Cariban | a | m | ɨ | 
 
 None
 
@@ -382,6 +404,7 @@ Only lg:kuikuro.
 | Form | Language | - | - | - | - | - | - | - | 
 | :-- | :-- |  :-- |  :-- |  :-- |  :-- |  :-- |  :-- |  :-- | 
 | _iŋuhoki_ | Upper Xingu Carib | i | ŋ | u | h | o | k | i | 
+| _*inupoki_ | Proto-Cariban | i | n | u | p | o | k | i | 
 
 None
 
@@ -391,6 +414,7 @@ Only lg:ikpeng.
 | Form | Language | - | - | 
 | :-- | :-- |  :-- |  :-- | 
 | _ɨm_ | Ikpeng | ɨ | m | 
+| _*ɨm_ | Proto-Cariban | ɨ | m | 
 
 None
 
@@ -401,6 +425,7 @@ Unclear if related to Proto-Pemongan rc:kupə 'to make' (src:gildea2007greenberg
 | :-- | :-- |  :-- |  :-- |  :-- |  :-- | 
 | _okpe_ | Arara | o | k | p | e | 
 | _okpe_ | Ikpeng | o | k | p | e | 
+| _*okpe_ | Proto-Cariban | o | k | p | e | 
 
 None
 
@@ -410,6 +435,7 @@ Only lg:arara.
 | Form | Language | - | - | - | 
 | :-- | :-- |  :-- |  :-- |  :-- | 
 | _uge_ | Arara | u | g | e | 
+| _*uke_ | Proto-Cariban | u | k | e | 
 
 None
 
@@ -419,6 +445,7 @@ Only lg:arara.
 | Form | Language | - | - | - | - | 
 | :-- | :-- |  :-- |  :-- |  :-- |  :-- | 
 | _uktu_ | Arara | u | k | t | u | 
+| _*uktu_ | Proto-Cariban | u | k | t | u | 
 
 None
 
@@ -434,6 +461,7 @@ None
 | _uhi_ | Ye'kwana | u | h | i | 
 | _upi_ | Wayana | u | p | i | 
 | _upi_ | Apalaí | u | p | i | 
+| _*upi_ | Proto-Cariban | u | p | i | 
 
 None
 
@@ -443,6 +471,7 @@ Only lg:kuikuro.
 | Form | Language | - | - | 
 | :-- | :-- |  :-- |  :-- | 
 | _ha_ | Upper Xingu Carib | h | a | 
+| _*pa_ | Proto-Cariban | p | a | 
 
 None
 
@@ -452,6 +481,7 @@ Only lg:arara.
 | Form | Language | - | - | 
 | :-- | :-- |  :-- |  :-- | 
 | _ge_ | Arara | g | e | 
+| _*ke_ | Proto-Cariban | k | e | 
 
 None
 
@@ -463,6 +493,7 @@ None
 | _atpo_ | Werikyana | a | t | p | o | 
 | _atho_ | Hixkaryána | a | t | h | o | 
 | _atpo_ | Waiwai | a | t | p | o | 
+| _*atpo_ | Proto-Cariban | a | t | p | o | 
 
 None
 
@@ -480,6 +511,7 @@ None
 | _kukma_ | Waiwai | - | - | k | u | k | - | 
 | _ukuk_ | Wayana | u | - | k | u | k | - | 
 | _uku_ | Ikpeng | u | - | k | u | - | - | 
+| _*kuku_ | Proto-Cariban | - | - | k | u | k | u | 
 
 None
 
@@ -489,6 +521,7 @@ Only lg:ikpeng.
 | Form | Language | - | - | - | 
 | :-- | :-- |  :-- |  :-- |  :-- | 
 | _ige_ | Ikpeng | i | g | e | 
+| _*ike_ | Proto-Cariban | i | k | e | 
 
 None
 
@@ -502,6 +535,7 @@ None
 | _utu_ | Panare | u | t | u | 
 | _u(tu)_ | Ye'kwana | u | t | u | 
 | _tu_ | Upper Xingu Carib | - | t | u | 
+| _*utu_ | Proto-Cariban | u | t | u | 
 
 None
 
@@ -511,6 +545,7 @@ Only lg:kaxui.
 | Form | Language | - | - | 
 | :-- | :-- |  :-- |  :-- | 
 | _oʔ_ | Werikyana | o | ʔ | 
+| _*oC_ | Proto-Cariban | o | � | 
 
 
 References:

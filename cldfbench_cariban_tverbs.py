@@ -35,19 +35,19 @@ class Dataset(BaseDataset):
         for i, row in cognatesets.iterrows():
             pc_id = "pc-" + str(row["ID"])
             parameters = [slug(x) for x in row["Meaning"].split("; ")]
-            forms.append(
+            forms = forms.append(
                 {
                     "Language_ID": "PC",
                     "ID": pc_id,
                     "Form": "*" + row["Form"],
                     "Cognateset_ID": row["ID"],
-                    "Parameter_ID": row["Meaning"],
-                    "Source": [row["Source"]],
+                    "Meaning": row["Meaning"],
+                    "Source": row["Source"],
                     "t?": "?",
                 },
                 ignore_index=True
             )
-        print(forms)
+        print(forms[forms["Language_ID"] == "PC"])
 
         cognates = [
             {
@@ -67,6 +67,7 @@ class Dataset(BaseDataset):
             cog_df = cog_df.join(gathered_cognates.drop(columns=["Form"]))
             cog_df["Form"] = cog_df["Form"].str.replace("(", "", regex=False)
             cog_df["Form"] = cog_df["Form"].str.replace(")", "", regex=False)
+            cog_df["Form"] = cog_df["Form"].str.strip("*")
             cog_df["Form"] = cog_df["Form"].apply(lambda x: x.split("; ")[0])
             cog_df["Segments"] = cog_df["Form"].apply(crh.segmentify)
             seglist = lingpy.align.multiple.Multiple(list(cog_df["Segments"]))
@@ -142,10 +143,7 @@ class Dataset(BaseDataset):
         lgs.append("PC")
         languages = crh.get_cldf_lg_table(lgs)
 
-        # PC forms are stored in cognatesets table...
         for i, row in cognatesets.iterrows():
-            pc_id = "pc-" + str(row["ID"])
-            parameters = [slug(x) for x in row["Meaning"].split("; ")]
             args.writer.objects["CognatesetTable"].append(
                 {"ID": row["ID"], "Name": "*"+row["Form"], "Description": row["Description"]}
             )

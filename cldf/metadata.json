@@ -15,7 +15,7 @@
         {
             "rdf:about": "git@github.com:fmatter/cariban_tverbs",
             "rdf:type": "prov:Entity",
-            "dc:created": "23ade70",
+            "dc:created": "06fe94d",
             "dc:title": "Repository"
         },
         {
@@ -43,7 +43,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 201,
+            "dc:extent": 236,
             "tableSchema": {
                 "columns": [
                     {
@@ -272,7 +272,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 201,
+            "dc:extent": 236,
             "tableSchema": {
                 "columns": [
                     {
