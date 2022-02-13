@@ -26,8 +26,16 @@ The following languages are featured in the study, although the descriptive cove
 | Ingarikó | inga1250 |  |
 
 
- 
-Ye'kwana _əkku_ ‘eat starch’
+
+| Form | Language | - | - | - | 
+| :-- | :-- |  :-- |  :-- |  :-- | 
+| _*urə_ | Proto-Cariban | u | r | ə | 
+| _urə_ | Tiriyó | u | r | ə | 
+| _urə_ | Wayana | u | r | ə | 
+| _uro_ | Kari'ña | u | r | o | 
+| _uɣi_ | Upper Xingu Carib | u | ɣ | i | 
+
+
 
 None
 
