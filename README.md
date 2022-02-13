@@ -321,6 +321,196 @@ Cultural background: lg:waiwai speakers do not use blowguns, but bow and arrow (
 | _hə_ | Ye'kwana | h | ə | 
 | _pə_ | Pemón | p | ə | 
 
+None
+
+Only lg:maqui, also lg:pemon
+
+
+| Form | Language | - | - | - | 
+| :-- | :-- |  :-- |  :-- |  :-- | 
+| _ka_ | Ye'kwana | - | k | a | 
+| _aka_ | Pemón | a | k | a | 
+
+None
+
+
+
+
+| Form | Language | - | - | - | 
+| :-- | :-- |  :-- |  :-- |  :-- | 
+| _okɨ_ | Hixkaryána | o | k | ɨ | 
+| _ekɨ_ | Waiwai | e | k | ɨ | 
+
+None
+
+Has form obj:eɲe with obj:ʃ- in lg:hixka, also found in lg:arara and lg:kaxui, with obj:t͡ʃ-. Likely not a t-adding verb, but a different phenomenon.
+
+
+| Form | Language | - | - | - | - | 
+| :-- | :-- |  :-- |  :-- |  :-- |  :-- | 
+| _oɲe_ | Hixkaryána | o | ɲ | e | - | 
+| _ene_ | Werikyana | e | n | e | - | 
+| _eneŋ_ | Arara | e | n | e | ŋ | 
+| _ene_ | Apalaí | e | n | e | - | 
+| _iɲi_ | Panare | i | ɲ | i | - | 
+| _ene_ | Kari'ña | e | n | e | - | 
+| _eneŋ_ | Ikpeng | e | n | e | ŋ | 
+| _ene_ | Ingarikó | e | n | e | - | 
+| _iŋi_ | Upper Xingu Carib | i | ŋ | i | - | 
+| _ene_ | Ye'kwana | e | n | e | - | 
+| _ene_ | Tiriyó | e | n | e | - | 
+| _enɨ_ | Waiwai | e | n | ɨ | - | 
+| _ene_ | Wayana | e | n | e | - | 
+
+None
+
+src:courtz2008carib[226] also mentions lg:pemon and lg:kapon obj:amɨ.
+
+
+| Form | Language | - | - | - | 
+| :-- | :-- |  :-- |  :-- |  :-- | 
+| _am_ | Ikpeng | a | m | - | 
+| _amɨ_ | Kari'ña | a | m | ɨ | 
+| _amə_ | Ye'kwana | a | m | ə | 
+| _amo_ | Apalaí | a | m | o | 
+
+None
+
+Only lg:kuikuro.
+
+
+| Form | Language | - | - | - | - | - | - | - | 
+| :-- | :-- |  :-- |  :-- |  :-- |  :-- |  :-- |  :-- |  :-- | 
+| _iŋuhoki_ | Upper Xingu Carib | i | ŋ | u | h | o | k | i | 
+
+None
+
+Only lg:ikpeng.
+
+
+| Form | Language | - | - | 
+| :-- | :-- |  :-- |  :-- | 
+| _ɨm_ | Ikpeng | ɨ | m | 
+
+None
+
+Unclear if related to Proto-Pemongan rc:kupə 'to make' (src:gildea2007greenberg).
+
+
+| Form | Language | - | - | - | - | 
+| :-- | :-- |  :-- |  :-- |  :-- |  :-- | 
+| _okpe_ | Arara | o | k | p | e | 
+| _okpe_ | Ikpeng | o | k | p | e | 
+
+None
+
+Only lg:arara.
+
+
+| Form | Language | - | - | - | 
+| :-- | :-- |  :-- |  :-- |  :-- | 
+| _uge_ | Arara | u | g | e | 
+
+None
+
+Only lg:arara.
+
+
+| Form | Language | - | - | - | - | 
+| :-- | :-- |  :-- |  :-- |  :-- |  :-- | 
+| _uktu_ | Arara | u | k | t | u | 
+
+None
+
+
+
+
+| Form | Language | - | - | - | 
+| :-- | :-- |  :-- |  :-- |  :-- | 
+| _ubi_ | Arara | u | b | i | 
+| _upi_ | Kari'ña | u | p | i | 
+| _uwi_ | Ikpeng | u | w | i | 
+| _uhi_ | Upper Xingu Carib | u | h | i | 
+| _uhi_ | Ye'kwana | u | h | i | 
+| _upi_ | Wayana | u | p | i | 
+| _upi_ | Apalaí | u | p | i | 
+
+None
+
+Only lg:kuikuro.
+
+
+| Form | Language | - | - | 
+| :-- | :-- |  :-- |  :-- | 
+| _ha_ | Upper Xingu Carib | h | a | 
+
+None
+
+Only lg:arara.
+
+
+| Form | Language | - | - | 
+| :-- | :-- |  :-- |  :-- | 
+| _ge_ | Arara | g | e | 
+
+None
+
+
+
+
+| Form | Language | - | - | - | - | 
+| :-- | :-- |  :-- |  :-- |  :-- |  :-- | 
+| _atpo_ | Werikyana | a | t | p | o | 
+| _atho_ | Hixkaryána | a | t | h | o | 
+| _atpo_ | Waiwai | a | t | p | o | 
+
+None
+
+
+
+
+| Form | Language | - | - | - | - | - | - | - | 
+| :-- | :-- |  :-- |  :-- |  :-- |  :-- |  :-- |  :-- |  :-- | 
+| _kuku_ | Werikyana | - | - | k | u | k | - | u | 
+| _kuʔ_ | Apalaí | - | - | k | u | ʔ | - | - | 
+| _uʔku_ | Kari'ña | u | ʔ | k | u | - | - | - | 
+| _kukma_ | Hixkaryána | - | - | k | u | k | - | - | 
+| _uku_ | Arara | u | - | k | u | - | - | - | 
+| _kuku_ | Tiriyó | - | - | k | u | k | - | u | 
+| _kukma_ | Waiwai | - | - | k | u | k | m | a | 
+| _ukuk_ | Wayana | u | - | k | u | k | - | - | 
+| _uku_ | Ikpeng | u | - | k | u | - | - | - | 
+
+None
+
+Only lg:ikpeng.
+
+
+| Form | Language | - | - | - | 
+| :-- | :-- |  :-- |  :-- |  :-- | 
+| _ige_ | Ikpeng | i | g | e | 
+
+None
+
+
+
+
+| Form | Language | - | - | - | 
+| :-- | :-- |  :-- |  :-- |  :-- | 
+| _eru_ | Ikpeng | e | r | u | 
+| _udu_ | Arara | u | d | u | 
+| _utu_ | Panare | u | t | u | 
+| _u(tu)_ | Ye'kwana | u | t | u | 
+| _tu_ | Upper Xingu Carib | - | t | u | 
+
+None
+
+Only lg:kaxui.
+
+
+| Form | Language | - | - | 
+| :-- | :-- |  :-- |  :-- | 
+| _oʔ_ | Werikyana | o | ʔ | 
 
 
 References:
