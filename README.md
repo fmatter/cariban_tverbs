@@ -7,23 +7,23 @@ The following languages are featured in the study, although the descriptive cove
 
 | Name | Glottocode | ISO 639-3 |
 | :-- | :-- | :-- |
-| Hixkaryána | hixk1239 |  |
-| Upper Xingu Carib | nucl1656 |  |
-| Ikpeng | ikpe1245 |  |
-| Wayana | waya1269 |  |
-| Ye'kwana | maqu1238 |  |
-| Ingarikó | inga1250 |  |
-| Tiriyó | trio1238 |  |
-| Akawaio | akaw1239 |  |
-| Panare | enap1235 |  |
-| Apalaí | apal1257 |  |
-| Werikyana | kaxu1237 |  |
-| Pemón | pemo1248 |  |
-| Arara | para1310 |  |
 | Macushi | macu1259 |  |
-| Waiwai | waiw1244 |  |
 | Kari'ña | gali1262 |  |
 | Proto-Cariban | cari1283 |  |
+| Ye'kwana | maqu1238 |  |
+| Apalaí | apal1257 |  |
+| Ikpeng | ikpe1245 |  |
+| Hixkaryána | hixk1239 |  |
+| Tiriyó | trio1238 |  |
+| Waiwai | waiw1244 |  |
+| Akawaio | akaw1239 |  |
+| Pemón | pemo1248 |  |
+| Ingarikó | inga1250 |  |
+| Panare | enap1235 |  |
+| Upper Xingu Carib | nucl1656 |  |
+| Arara | para1310 |  |
+| Wayana | waya1269 |  |
+| Werikyana | kaxu1237 |  |
 
 
  
@@ -469,17 +469,17 @@ None
 
 
 
-| Form | Language | - | - | - | - | - | - | - | 
-| :-- | :-- |  :-- |  :-- |  :-- |  :-- |  :-- |  :-- |  :-- | 
-| _kuku_ | Werikyana | - | - | k | u | k | - | u | 
-| _kuʔ_ | Apalaí | - | - | k | u | ʔ | - | - | 
-| _uʔku_ | Kari'ña | u | ʔ | k | u | - | - | - | 
-| _kukma_ | Hixkaryána | - | - | k | u | k | - | - | 
-| _uku_ | Arara | u | - | k | u | - | - | - | 
-| _kuku_ | Tiriyó | - | - | k | u | k | - | u | 
-| _kukma_ | Waiwai | - | - | k | u | k | m | a | 
-| _ukuk_ | Wayana | u | - | k | u | k | - | - | 
-| _uku_ | Ikpeng | u | - | k | u | - | - | - | 
+| Form | Language | - | - | - | - | - | - | 
+| :-- | :-- |  :-- |  :-- |  :-- |  :-- |  :-- |  :-- | 
+| _kuku_ | Werikyana | - | - | k | u | k | u | 
+| _kuʔ_ | Apalaí | - | - | k | u | ʔ | - | 
+| _uʔku_ | Kari'ña | u | ʔ | k | u | - | - | 
+| _kukma_ | Hixkaryána | - | - | k | u | k | - | 
+| _uku_ | Arara | u | - | k | u | - | - | 
+| _kuku_ | Tiriyó | - | - | k | u | k | u | 
+| _kukma_ | Waiwai | - | - | k | u | k | - | 
+| _ukuk_ | Wayana | u | - | k | u | k | - | 
+| _uku_ | Ikpeng | u | - | k | u | - | - | 
 
 None
 
